@@ -7,7 +7,7 @@ Biomedical data scientist: biostatistics, machine learning and synthetic patient
 - **Synthetic patient data for clinical trials.** Whether synthetic data preserves the inferential validity of survival analysis (hazard ratios, event rates, statistical significance, type I error), using deep generative models (variational autoencoders) and public, de-identified, patient-level phase 3 oncology trials from Project Data Sphere. Previously developed within a public-private R&D project on AI for clinical trials funded by the Spanish State Research Agency and co-funded by ERDF (CPP2023-010929).
 - **Survival analysis and biostatistics.** Cox proportional hazards, random survival forests and gradient boosting; calibration, bootstrap and leakage-controlled cross-validation; subgroup robustness.
 - **Privacy-preserving data sharing.** Re-identification risk (membership inference, k-anonymity, distance to closest record), anonymization, pseudonymization and GDPR-aware pipelines.
-- **Bioinformatics and omics data analysis.** RNA-seq (fastp, HISAT2, featureCounts, DESeq2, GSEA), Oxford Nanopore bacterial genomics (Prokka, Roary, Integron Finder) and proteomics statistics in R.
+- **Bioinformatics and omics data analysis.** RNA-seq (fastp, HISAT2, featureCounts, DESeq2, GSEA) and Oxford Nanopore bacterial genomics (Prokka, Roary, Integron Finder).
 
 ## Selected repositories
 
